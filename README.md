@@ -56,7 +56,7 @@
 <p align='center'>
   <img width="30"  align='left' src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47606xz337xsmht436z15o6q5lfdqfmid86fp0j5qc&rid=giphy.gif">
     <img width="30"  align='right' src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">
-    <img width="30"  align='left'  src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
+    <img width="30"  align='right'  src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
     <img width="30"  align='left' src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
     <img width="30"  align='right' src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif">
 </p>
