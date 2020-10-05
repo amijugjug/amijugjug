@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you here.</h1>
 
-<img src = "https://raw.githubusercontent.com/RoyalEagle73/RoyalEagle73/master/coding-freak.gif" width = "400" style = "display: block;margin-left: auto;margin-right: auto;width: 50%;align : center"/>
+<img src = "https://raw.githubusercontent.com/ami-jugjug/ami-jugjug/main/coding-freak.gif" width = "400" style = "display: block;margin-left: auto;margin-right: auto;width: 50%;align : center"/>
 
 
 <p>
