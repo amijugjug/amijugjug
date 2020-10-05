@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Prakhar Srivastava, Python developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Uttar Pradesh,India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Jharkhand,India</b>. </p>
+<p>Welcome to my page! </br> I'm Prakhar Srivastava, Python developer from <img src="https://image.shutterstock.com/image-illustration/india-flag-icon-clipping-path-260nw-175844369.jpg" width="13"/> <b>Uttar Pradesh,India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Jharkhand,India</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
