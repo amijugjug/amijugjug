@@ -5,7 +5,7 @@
 
 <p>
     Welcome to my page! </br> I'm Prakhar Srivastava, Python developer from <img src="https://image.shutterstock.com/image-illustration/india-flag-icon-clipping-     path-260nw-175844369.jpg" width="18"/> <b>Uttar Pradesh,India</b>, currently living in <img src="https://image.shutterstock.com/image-illustration/india-flag-     icon-clipping-path-260nw-175844369.jpg" width="18"/> <b>Jharkhand,India</b>. </br>
-    Jugjug is my nick name that is why username is <h6>ami_jugjug</h6>.<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
+    Jugjug is my nick name that is why username is <b>ami_jugjug</b>.
 </p>
     <h3>
 	Things I code with
