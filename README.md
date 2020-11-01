@@ -49,8 +49,9 @@
     </tr>
   </tbody>
 </table>
-<h3>HacktoberFest2020 Repository</h3>
-<h4>Create your pull request here</h4>
+<h3>Small Python Programs</h3>
+<h4>A repository which contains small python programs made using various python libraries.</h4>
+<h3>Small games,useful codes etc.</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -63,11 +64,11 @@
   </thead>
   <tbody>
     <tr>
-	<td><a href="https://github.com/ami-jugjug/Hacktoberfest2K20"><b>HacktoberFest 2K20</b></a></td>
-	<td><img alt="Stars" src="https://img.shields.io/github/stars/ami-jugjug/Hacktoberfest2K20?style=flat-square&labelColor=343b41"/></td>
-	<td><img alt="Forks" src="https://img.shields.io/github/forks/ami-jugjug/Hacktoberfest2K20?style=flat-square&labelColor=343b41"/></td>
-	<td><img alt="Issues" src="https://img.shields.io/github/issues/ami-jugjug/Hacktoberfest2K20?style=flat-square&labelColor=343b41"/>		</td>
-	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ami-jugjug/Hacktoberfest2K20?style=flat-square&labelColor=343b41"/></td>
+	<td><a href="https://github.com/ami-jugjug/Small-Python-Projects"><b>HacktoberFest 2K20</b></a></td>
+	<td><img alt="Stars" src="https://img.shields.io/github/stars/ami-jugjug/Small-Python-Projects?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Forks" src="https://img.shields.io/github/forks/ami-jugjug/Small-Python-Projects?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Issues" src="https://img.shields.io/github/issues/ami-jugjug/Small-Python-Projects?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ami-jugjug/Small-Python-Projects?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
