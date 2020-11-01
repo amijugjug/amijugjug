@@ -64,7 +64,7 @@
   </thead>
   <tbody>
     <tr>
-	<td><a href="https://github.com/ami-jugjug/Small-Python-Projects"><b>HacktoberFest 2K20</b></a></td>
+	<td><a href="https://github.com/ami-jugjug/Small-Python-Projects"><b>Small-Python-Projects</b></a></td>
 	<td><img alt="Stars" src="https://img.shields.io/github/stars/ami-jugjug/Small-Python-Projects?style=flat-square&labelColor=343b41"/></td>
 	<td><img alt="Forks" src="https://img.shields.io/github/forks/ami-jugjug/Small-Python-Projects?style=flat-square&labelColor=343b41"/></td>
 	<td><img alt="Issues" src="https://img.shields.io/github/issues/ami-jugjug/Small-Python-Projects?style=flat-square&labelColor=343b41"/></td>
