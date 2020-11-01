@@ -51,7 +51,7 @@
 </table>
 <h3>Small Python Programs</h3>
 <h4>A repository which contains small python programs made using various python libraries.</h4>
-<h3>Small games,useful codes etc.</h3>
+<h5>Small games,useful codes etc.</h5>
 <table>
   <thead align="center">
     <tr border: none;>
