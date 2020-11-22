@@ -13,7 +13,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-%20-lightgrey" />
   <img alt="C++" src="https://img.shields.io/badge/C++-%20-red" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-%20-blue" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-%20-yellow" />
 </p>
 <h3>Projects I am working on</h3>
 <table>
