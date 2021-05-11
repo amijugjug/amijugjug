@@ -3,8 +3,7 @@
 <img src = "https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" width = "400" style = "display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
 
 <p>
-    Welcome to my page! </br> I'm Prakhar Srivastava, Python developer from <img src="https://image.shutterstock.com/image-illustration/india-flag-icon-clipping-     path-260nw-175844369.jpg" width="18"/> <b>Uttar Pradesh,India</b>, currently living in <img src="https://image.shutterstock.com/image-illustration/india-flag-     icon-clipping-path-260nw-175844369.jpg" width="18"/> <b>Jharkhand,India</b>. </br>
-    Jugjug is my nick name that is why username is <b>ami_jugjug</b>.
+    Welcome to my GIT page! </br> I'm Prakhar Srivastava, Python developer from <img src="https://image.shutterstock.com/image-illustration/india-flag-icon-clipping-     path-260nw-175844369.jpg" width="18"/> <b>Uttar Pradesh,India</b>, currently living in <img src="https://image.shutterstock.com/image-illustration/india-flag-     icon-clipping-path-260nw-175844369.jpg" width="18"/> <b>Jharkhand,India</b>.
 </p>
     <h3>
 	Things I code with
