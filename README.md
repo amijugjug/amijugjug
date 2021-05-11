@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you here.</h1>
 <!--https://raw.githubusercontent.com/ami-jugjug/ami-jugjug/main/coding-freak.gif-->
+<div align = "center>
 <img src = "https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" width = "400" style = "display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+<div>
 
 <p>
     Welcome to my GIT page! </br> I'm Prakhar Srivastava, Python developer from <img src="https://image.shutterstock.com/image-illustration/india-flag-icon-clipping-     path-260nw-175844369.jpg" width="18"/> <b>Uttar Pradesh,India</b>, currently living in <img src="https://image.shutterstock.com/image-illustration/india-flag-     icon-clipping-path-260nw-175844369.jpg" width="18"/> <b>Jharkhand,India</b>.
