@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you here.</h1>
 
 <!--<img src = "https://raw.githubusercontent.com/ami-jugjug/ami-jugjug/main/coding-freak.gif" width = "400" style = "display: block;margin-left: auto;margin-right: auto;width: 50%;align : center"/>-->
-
-<div class="tenor-gif-embed" data-postid="13165216" data-share-method="host" data-width="100%" data-aspect-ratio="1.3351206434316354"><a href="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216">Sultan Alrefaei Programmer GIF</a> from <a href="https://tenor.com/search/sultanalrefaei-gifs">Sultanalrefaei GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216.gif
 <p>
     Welcome to my page! </br> I'm Prakhar Srivastava, Python developer from <img src="https://image.shutterstock.com/image-illustration/india-flag-icon-clipping-     path-260nw-175844369.jpg" width="18"/> <b>Uttar Pradesh,India</b>, currently living in <img src="https://image.shutterstock.com/image-illustration/india-flag-     icon-clipping-path-260nw-175844369.jpg" width="18"/> <b>Jharkhand,India</b>. </br>
     Jugjug is my nick name that is why username is <b>ami_jugjug</b>.
