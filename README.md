@@ -1,8 +1,9 @@
-<h1><img src="https://assets1.lottiefiles.com/packages/lf20_rnfwc4vj.json" width="30"/> Hey, nice to see you here.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you here.</h1>
 <!--https://raw.githubusercontent.com/ami-jugjug/ami-jugjug/main/coding-freak.gif-->
-<!-- https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430-->
+<!-- -->
 <p align = "center">
-    <img src = "https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" width = "400" style = "display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+    <img src = "https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216 " width = "400" style = "display: block;margin-left: auto;margin-right: auto;width: 50%;"/>
+<!--https://assets1.lottiefiles.com/packages/lf20_rnfwc4vj.json-->
 </p>
 <p>
     <strong>Hi, welcome to my GIT page!</strong> </br> I'm Prakhar Srivastava, a software developer from <b>Bahraich,Uttar Pradesh</b>.</br>
