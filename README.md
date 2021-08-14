@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you here.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World !!!</h1>
 <!--https://raw.githubusercontent.com/ami-jugjug/ami-jugjug/main/coding-freak.gif-->
 <!-- -->
 <p align = "center">
@@ -8,7 +8,7 @@
 -->
 </p>
 <p>
-    <strong>Hi, welcome to my GIT page!</strong> </br> I'm Prakhar Srivastava, a software developer from <b>Bahraich,Uttar Pradesh</b>.</br>
+    <strong>Hi, welcome to my GIT page!</strong></br> Nice to see you here. </br> I'm Prakhar Srivastava, a software developer from <b>Bahraich,Uttar Pradesh</b>.</br>
     Currently working in developement of web applications.
 </p>
 <h3>
