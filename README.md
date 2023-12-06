@@ -8,11 +8,13 @@
 -->
   </p>
   <span>
-    <strong>Hi, welcome to my GIT page!</strong></br> Nice to see you here. </br> I'm Prakhar Srivastava, a software developer from <b>Bahraich,Uttar Pradesh</b>.</br>
-    Currently working in developement of web applications.
+    <strong>Hi, welcome to my GIT page!</strong></br> Nice to see you here. </br> Greetings, I'm Prakhar Srivastava, an accomplished Software Developer currently serving as Software Developer 1 at Koo India. I bring over two years of hands-on experience in frontend technologies, specializing in frameworks like React. My journey in the software development realm has been shaped by a strong academic foundation, having post-graduated from the esteemed National Institute of Technology, Jamshedpur.
   </span>
 
-  <p>Have a look on my <strong> <a href="http://amijugjug.github.io">portfolio </a></strong> </p>
+  </br>
+  </br>
+
+  <p>Have a look on my <strong> <a href="http://amijugjug.github.io" target="_blank" rel="noreferrer noopener" >portfolio </a></strong> </p>
   <h3>
     Things I code with
   </h3>
