@@ -8,7 +8,7 @@
 -->
   </p>
   <span>
-    <strong>Hi, welcome to my GIT page!</strong></br> Nice to see you here. </br> Greetings, I'm Prakhar Srivastava, an accomplished Software Developer currently serving as Software Developer 1 at Koo India. I bring over two years of hands-on experience in frontend technologies, specializing in frameworks like React. My journey in the software development realm has been shaped by a strong academic foundation, having post-graduated from the esteemed National Institute of Technology, Jamshedpur.
+    <strong>Hi, welcome to my GIT page!</strong></br> Nice to see you here. </br> Greetings, I'm Prakhar Srivastava, an accomplished Software Developer currently serving as Software Developer 1 at Koo India.</br> I bring over two years of hands-on experience in frontend technologies, specializing in frameworks like React.</br> My expertise lies in developing robust and user-friendly applications using React, with a keen focus on delivering seamless and engaging user experiences.</br></br> My journey in the software development realm has been shaped by a strong academic foundation, having post-graduated from the esteemed National Institute of Technology, Jamshedpur.
   </span>
 
   </br>
@@ -28,12 +28,12 @@
 
   <h3>Where to find me</h3>
   <p>
-    <a href="https://github.com/amijugjug" target="_blank">
-      <img alt="Github" border-radius=5px src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    <a href="https://github.com/amijugjug" target="_blank" style="border-radius=5px">
+      <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
     </a>
-    <a href="https://twitter.com/amijugjug" target="_blank"><img alt="Twitter" style="border-radius:'5px';" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/amijugjug" target="_blank"><img alt="LinkedIn" style="border-radius:'5px';" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/amijugjug" target="_blank"><img alt="Instagram" style="border-radius:'5px';" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=purple" /></a>
+    <a href="https://twitter.com/amijugjug" target="_blank" style="border-radius=5px;" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/amijugjug" target="_blank"  style="border-radius=5px;"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/amijugjug" target="_blank"  style="border-radius=5px;"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=purple" /></a>
   </p>
 
   <div style="display:flex;align-items:center;justify-content:flex-start;gap:'10px';">
