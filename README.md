@@ -18,6 +18,7 @@
 </h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%20-crimson"  />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%20-lightblue"  />
   <img alt="React JS" src="https://img.shields.io/badge/React%20JS-%20-blue" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-%20-purple" />
   <img alt="Next JS" src="https://img.shields.io/badge/Next%20JS-%20-black" />
