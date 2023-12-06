@@ -27,15 +27,15 @@
   <h3>Where to find me</h3>
   <p>
     <a href="https://github.com/amijugjug" target="_blank">
-      <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" style="border-radius:5px;" />
+      <img alt="Github" border-radius=5px src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
     </a>
-    <a href="https://twitter.com/amijugjug" target="_blank"><img alt="Twitter" style="border-radius:5px;" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/amijugjug" target="_blank"><img alt="LinkedIn" style="border-radius:5px;" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/amijugjug" target="_blank"><img alt="Instagram" style="border-radius:5px;" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=purple" /></a>
+    <a href="https://twitter.com/amijugjug" target="_blank"><img alt="Twitter" style="border-radius:'5px';" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/amijugjug" target="_blank"><img alt="LinkedIn" style="border-radius:'5px';" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/amijugjug" target="_blank"><img alt="Instagram" style="border-radius:'5px';" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=purple" /></a>
   </p>
 
-  <div style="display:flex;align-items:center;justify-content:flex-start;gap:10px">
-    <img width="30" align='left' src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47606xz337xsmht436z15o6q5lfdqfmid86fp0j5qc&rid=giphy.gif">
-    <img width="30" align='left' src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
-    <img width="30" align='right' src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif">
+  <div style="display:flex;align-items:center;justify-content:flex-start;gap:'10px';">
+    <img width="30" src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47606xz337xsmht436z15o6q5lfdqfmid86fp0j5qc&rid=giphy.gif" >
+    <img width="30" src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
+    <img width="30" src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif">
   </div>
