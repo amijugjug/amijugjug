@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hello World !!!</h1>
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hello World !!!</h1>
   <!--https://raw.githubusercontent.com/ami-jugjug/ami-jugjug/main/coding-freak.gif-->
   <!-- -->
   <p align="center">
@@ -36,8 +36,6 @@
 
   <div style="display:flex;align-items:center;justify-content:flex-start;gap:10px">
     <img width="30" align='left' src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47606xz337xsmht436z15o6q5lfdqfmid86fp0j5qc&rid=giphy.gif">
-
     <img width="30" align='left' src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
     <img width="30" align='right' src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif">
-
   </div>
