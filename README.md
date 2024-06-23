@@ -8,9 +8,9 @@
 -->
   </p>
   <span>
-    <strong>Hi, welcome to my GIT page!</strong></br> Nice to see you here. </br> Greetings, I'm Prakhar Srivastava, an accomplished Software Developer currently serving as Software Developer 1 at Koo India.</br> I bring over two years of hands-on experience in frontend technologies, specializing in frameworks like React.</br> My expertise lies in developing robust and user-friendly applications using React, with a keen focus on delivering seamless and engaging user experiences.</br></br> My journey in the software development realm has been shaped by a strong academic foundation, having post-graduated from the esteemed National Institute of Technology, Jamshedpur.
+    <strong>👋 Hi there!, </strong></br> Nice to see you here. </br> I'm a frontend developer specializing in Next.js and React.js. Currently, I'm exploring other technologies to broaden my skill set and stay ahead in the ever-evolving tech landscape. </br> I bring over approx three years of hands-on experience in frontend technologies.</br> My expertise lies in developing robust and user-friendly applications using React, with a keen focus on delivering seamless and engaging user experiences.</br></br> My journey in the software development realm has been shaped by a strong academic foundation, having post-graduated from the esteemed National Institute of Technology, Jamshedpur. 🚀
   </span>
-
+  
   </br>
   </br>
 
